@@ -17,7 +17,7 @@ A prototype ESP32-based sensor node that reads temperature and humidity data and
 
 ### Block Diagram
 
-![Block Diagram](hardware/docs/Project Argus Breadboard Block Diagram.jpg)
+![Block Diagram](hardware/docs/Project%20Argus%20Breadboard%20Block%20Diagram.jpg)
 
 ### Power
 
